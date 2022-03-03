@@ -333,6 +333,9 @@ margin-left: 15px;
         flex-direction: column;
         height: auto;
     }
+    .eight{
+        height: auto;
+    }
     .customer{
         flex-wrap: wrap;
         flex-direction: column;
@@ -341,7 +344,7 @@ margin-left: 15px;
     .review1{
         height: auto;
         width: 100%;
-        margin:10px;
+       
     }
     .review2{
         height: auto;
@@ -351,10 +354,31 @@ margin-left: 15px;
         height: auto;
         width: 100%;
     }
+    .ninth{
+        height: auto;
+    }
     .foot{
         flex-wrap: wrap;
         flex-direction: column;
         height: auto;
+    }
+    .part1{
+        width:100%;
+        height: auto;
+        margin-left: 20px;
+    }
+    .part2{
+        width:100%;
+        margin-left: 20px;
+        height: auto;
+    }
+    .part3{
+        width:100%;
+        margin-left: 20px;
+        height: auto;
+    }
+    .part2 img{
+        margin-left: 10px;
     }
     .First{
         flex-wrap: wrap;
@@ -399,6 +423,17 @@ margin-left: 15px;
         color: black;
         margin-top: 20px;
     }
+    .container2 h1{
+        margin-left: 40px;
+       
+    }
+    .container2 p{
+        margin-left: 40px;
+    }
+    .seat{
+        margin-left: 40px;
+    }
+   
 }
 
 
