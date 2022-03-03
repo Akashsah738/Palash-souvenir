@@ -293,7 +293,111 @@ margin-left: 15px;
 }
 @media(max-width:500px){
     html{
-        font-size: 50%;
+        font-size: 100%;
+    }
+    .bocket{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .fourth{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .second{
+        height: auto;
+    }
+    .one{
+        width:70%;
+    }
+    .two{
+        width:70%;
+        margin-left: 15%;
+    }
+    .three{
+        width:70%;
+        margin-left: 15%;
+    }
+    .four{
+        width:70%;
+        margin-left: 15%;
+    }
+    .sard{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .trend{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .customer{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .review1{
+        height: auto;
+        width: 100%;
+        margin:10px;
+    }
+    .review2{
+        height: auto;
+        width: 100%;
+    }
+    .review3{
+        height: auto;
+        width: 100%;
+    }
+    .foot{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .First{
+        flex-wrap: wrap;
+        height: auto;
+        flex-direction: column;
+    }
+    .container1{
+        width:100%;
+    }
+    .container2{
+        width:100%;
+    }
+    .fifth{
+        height: auto;
+    }
+    .card1{
+        margin-left: 20px;
+    }
+    .card2{
+        margin-left: 20px;
+    }
+    .card3{
+        margin-left: 20px;
+    }
+    .black{
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+    }
+    .heading{
+        width:100%;
+    }
+    .boot{
+        width:100%;
+    }
+    .ceat{
+        margin-left:100px;
+        margin-bottom: 50px;
+    }
+    .hendry{
+        margin-left: 10px;
+        color: black;
+        margin-top: 20px;
     }
 }
 
